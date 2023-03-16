@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pwent</string>
+    <string name="ip_address_text">IP Address: %1$s</string>
+</resources>
